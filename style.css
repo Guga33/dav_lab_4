@@ -1,0 +1,18 @@
+.table{
+    width: 800px;
+    height: 600px;
+    border: solid 3px;
+    margin: auto;
+ }
+ 
+ .table td, th{
+    border: solid 3px;
+ }
+ tfoot{
+     background-color: green;
+     padding:50px;
+ }
+ p{
+     text-align: center;
+ }
+ 
